@@ -1,0 +1,3 @@
+[submodule "jsonhttpinterface"]
+	path = jsonhttpinterface
+	url = http://github.com/blixt/php-jsonhttpinterface
